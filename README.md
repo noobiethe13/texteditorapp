@@ -1,16 +1,1 @@
-# texteditorapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An app made using Flutter and Dart to add multiple texts on the screen,the added texts can then be dragged & dropped across the screen, and upon clicking a menu opens that allows for changes to the text's color, font size, and font family, or just delete the text.
